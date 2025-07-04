@@ -3,7 +3,7 @@
 
 > :sparkles: A curated list of awesome resources for ASD and Asperger's Syndrome
 
-[CDC Definition](https://www.cdc.gov/ncbddd/autism/hcp-dsm.html)
+[CDC Describe](cdc.gov/autism/about/)
 
 ## Contents
 
